@@ -8,6 +8,7 @@ import numpy
 from PIL import Image
 from PIL import Image as im
 import time
+import rd as r
 
 i=0
 global z
@@ -25,8 +26,8 @@ while v==36:
         z=True
     elif arduino==b'fff\n'or arduino==b'FFF\n':
         break
-    if z==True and data(arduino)!=None:
-       K=data(arduino)
+    if z==True and r.data(arduino)!=None:
+       K=r.data(arduino)
        list1.insert(i,K)
        i++1
        print(K)
