@@ -8,4 +8,3 @@ hopefully it will be completed soon
 ![alt text](https://image.easyeda.com/histories/3776cb8febd6469da5b45cc5eed88024.png)
 ![alt text](https://image.easyeda.com/histories/885e0c738c784176809d896cba4d4ae5.png)
 
-	https://image.easyeda.com/histories/885e0c738c784176809d896cba4d4ae5.png
