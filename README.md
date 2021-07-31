@@ -34,5 +34,7 @@ def data(a):
     else:
         return None
  there is no problem only the elif statments need to be completed  and it will work
+
 Resources used :
 https://randomnerdtutorials.com/rf-433mhz-transmitter-receiver-module-with-arduino/
+https://lastminuteengineers.com/433mhz-rf-wireless-arduino-tutorial/amp/
