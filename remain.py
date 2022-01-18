@@ -38,7 +38,7 @@ list1.reverse()
 print(list1)
 c = bytes(list1)
 data = im.frombytes("RGBA", (7, 10), c)#change the things depending on the inputs data program :MAIN"inputs.py" put the photo and take these numbers and put it here
-data.save('reee.png')#the photo name 
+data.save('reee.png')#photo name
 
 
 
