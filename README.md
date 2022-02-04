@@ -12,7 +12,6 @@ diagrams:
 ![alt text](https://image.easyeda.com/histories/3776cb8febd6469da5b45cc5eed88024.png)
 ![alt text](https://image.easyeda.com/histories/885e0c738c784176809d896cba4d4ae5.png)
 
-note:that a photo like RADI2 can be send bigger photos cant be sent due to lose of data error(uncompletet data recieving)
 
 Resources used :
 https://randomnerdtutorials.com/rf-433mhz-transmitter-receiver-module-with-arduino/
